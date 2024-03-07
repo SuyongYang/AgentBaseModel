@@ -1,0 +1,2 @@
+pi = 'foobar'
+print(pi)
